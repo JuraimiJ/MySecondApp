@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="app_name1">Freelancer Unity Form</string>
+    <string name= "confirm">Register</string>
+    <string name="work_exp">Years of Work Experience :</string>
+    <string name="fullname">Full Name :</string>
+    <string name="gender">Gender :</string>
+    <string name="stud_id">Student ID :</string>
+    <string name="school">School :</string>
+    <string name="email">E-mail :</string>
+    <string name="phone">Phone :</string>
+    <string name="res_add">Residential Address :</string>
+    <string name="dob">Date Of Birth :</string>
+    <string name="ed_lvl">Education Level :</string>
+    <string name="other_skills">Other Skills :</string>
+    <string name="salary">Last Drawn Salary :</string>
+    <string name="welcome">Welcome to Adventure Learning Club</string>
+    <string name="expertise">User expertise :</string>
+    <string name="mop">Method of Payment :</string>
+
+
+    <string name="e_alert">Receive Email Alert</string>
+    <string name="automated">Sent Resume Automatically</string>
+
+
+
+
+
+
+    <string-array name="avail_courses">
+        <item>Art and Design</item>
+        <item>Information Technology</item>
+        <item>Copywriting</item>
+        <item>Financial Advice</item>
+        <item>Business Consulting</item>
+    </string-array>
+
+    <string-array name="method_payment">
+        <item>Hourly</item>
+        <item>One Time Payment</item>
+    </string-array>
+
+
+</resources>
